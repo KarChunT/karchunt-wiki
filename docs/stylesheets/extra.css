@@ -1,0 +1,7 @@
+strong {
+    color: #4051b5;
+}
+
+[data-md-color-scheme="slate"] strong { 
+    color: #5e8bde;
+}

@@ -1,0 +1,12 @@
+[project]
+name = "KarChunT-Wiki"
+version = "0.1.0"
+description = "Documentation for KarChunT Wiki"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mkdocs-git-authors-plugin>=0.10.0",
+    "mkdocs-git-committers-plugin-2>=2.5.0",
+    "mkdocs-git-revision-date-localized-plugin>=1.4.7",
+    "mkdocs-material[imaging]>=9.6.16",
+]
