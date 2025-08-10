@@ -8,5 +8,6 @@ dependencies = [
     "mkdocs-git-authors-plugin>=0.10.0",
     "mkdocs-git-committers-plugin-2>=2.5.0",
     "mkdocs-git-revision-date-localized-plugin>=1.4.7",
+    "mkdocs-glightbox>=0.4.0",
     "mkdocs-material[imaging]>=9.6.16",
 ]
