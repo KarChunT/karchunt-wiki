@@ -20,7 +20,7 @@ It is **not recommended** to use passwords to log in, as when the malicious user
 
 The SSH keys consist of both **public and private cryptographic keys**. For the public key, the user can share with anyone freely without any concerns, while the private key must be stored in a secure way and cannot be exposed to anyone.
 
-![SSH Process Diagram](/assets/ssh/ssh_process.gif)
+![SSH Process Diagram](../assets/ssh/ssh_process.gif)
 
 **Steps to authenticate;**
 
