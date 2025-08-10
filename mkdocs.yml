@@ -17,15 +17,18 @@ theme:
   features:
     - content.action.edit
     - content.action.view
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate
     - navigation.instant
-    - navigation.instant.prefetch
+    # - navigation.instant.prefetch
     - navigation.instant.progress
-    - navigation.instant.preview
+    # - navigation.instant.preview
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.expand
-    - navigation.path
+    # - navigation.path
     - navigation.indexes
     - navigation.top
     - navigation.footer
@@ -99,9 +102,10 @@ copyright: >-
   Copyright &copy; 2025 KarChunT. All rights reserved. –
   <a href="#__consent">Change cookie settings</a>
 plugins:
-  - offline
+  # - offline
   - privacy
   - search
+  - glightbox
   # - git-authors
   - social:
       cards_layout_options:
@@ -116,8 +120,38 @@ plugins:
       branch: main
 extra_css:
   - stylesheets/extra.css
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - tables
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - toc:
+      permalink: true
+      permalink_title: Anchor link to this section for reference
 nav:
   - Home: index.md
   - SSH:
       - Introduction:
         - SSH Overview: ssh/ssh-overview.md
+        - SSH Installation: ssh/ssh-installation.md
+      - SSH Keys:
+        - Play with SSH Keys: ssh/play-with-ssh-keys.md
+      - Host & Server:
+        - Remote Server Configuration: ssh/remote-server-configuration.md
+        - Host Configuration: ssh/host-configuration.md
+        - Server Configuration: ssh/server-configuration.md
+      - SSH Tunnels:
+        - Local Tunneling: ssh/local-tunneling.md
+        - Remote Tunneling: ssh/remote-tunneling.md
