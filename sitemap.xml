@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://karchunt.github.io/karchunt-wiki/index.html</loc>
+         <loc>https://karchunt.github.io/karchunt-wiki/</loc>
          <lastmod>2025-08-10</lastmod>
     </url>
     <url>
-         <loc>https://karchunt.github.io/karchunt-wiki/ssh/ssh-overview.html</loc>
+         <loc>https://karchunt.github.io/karchunt-wiki/ssh/host-configuration/</loc>
+         <lastmod>2025-08-10</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/ssh/local-tunneling/</loc>
+         <lastmod>2025-08-10</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/ssh/play-with-ssh-keys/</loc>
+         <lastmod>2025-08-10</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/ssh/remote-server-configuration/</loc>
+         <lastmod>2025-08-10</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/ssh/remote-tunneling/</loc>
+         <lastmod>2025-08-10</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/ssh/server-configuration/</loc>
+         <lastmod>2025-08-10</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/ssh/ssh-installation/</loc>
+         <lastmod>2025-08-10</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/ssh/ssh-overview/</loc>
          <lastmod>2025-08-10</lastmod>
     </url>
 </urlset>
