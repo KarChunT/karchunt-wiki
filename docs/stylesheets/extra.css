@@ -2,6 +2,14 @@ strong {
     color: #4051b5;
 }
 
+[data-md-color-scheme="slate"] h1{
+    color: white
+}
+
+[data-md-color-scheme="default"] h1 {
+    color: black;
+}
+
 [data-md-color-scheme="slate"] strong { 
-    color: #5e8bde;
+    color: #ffec3d;
 }
