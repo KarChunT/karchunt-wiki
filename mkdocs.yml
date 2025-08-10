@@ -1,8 +1,9 @@
 site_name: KarChunT Wiki
-site_url: ""
+site_url: https://karchunt.github.io/karchunt-wiki/
 repo_url: https://github.com/KarChunT/karchunt-wiki
 repo_name: KarChunT/karchunt-wiki
 edit_uri: edit/main/docs/
+use_directory_urls: true
 theme:
   name: material
   direction: ltr
@@ -46,8 +47,8 @@ theme:
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: black
-      accent: indigo
+      primary: yellow
+      accent: yellow
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -101,7 +102,7 @@ plugins:
   - offline
   - privacy
   - search
-  - git-authors
+  # - git-authors
   - social:
       cards_layout_options:
         font_family: JetBrains Mono
