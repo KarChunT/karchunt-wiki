@@ -9,6 +9,8 @@ hide:
 
 # Welcome to KarChunT Wiki
 
+![me](./assets/anotherme.webp){ align=right width="250" height="250" .curved-img }
+
 Hi, I'm **Kar Chun**! I'm an **Infrastructure and DevOps Engineer** at **Intel**. Welcome to my website, visit my website for documentation, tutorials, blog and more. I love to code and design software architecture.
 
 My ambition is to develop a new technology that can **revolutionize the world**. As part of my motivation to inspire people, this site shares what I have learned and studied previously. It would be the greatest thing I could ever hope for if someone looked at me and said, `Thanks to you, I didn't give up`🥳.
