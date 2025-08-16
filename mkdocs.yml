@@ -27,7 +27,7 @@ theme:
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.expand
+    # - navigation.expand
     # - navigation.path
     - navigation.indexes
     - navigation.top
@@ -113,11 +113,17 @@ plugins:
   - git-revision-date-localized:
       type: date
       enable_creation_date: true
+      exclude:
+        - index.md
+        - docs/index.md
       enabled: true
   - git-committers:
       enabled: true
       repository: KarChunT/karchunt-wiki
       branch: main
+      exclude:
+        - index.md
+        - docs/index.md
 extra_css:
   - stylesheets/extra.css
 extra_javascript:
@@ -135,23 +141,37 @@ markdown_extensions:
   - pymdownx.snippets
   - tables
   - attr_list
+  - def_list
   - md_in_html
   - pymdownx.blocks.caption
   - toc:
       permalink: true
       permalink_title: Anchor link to this section for reference
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tasklist:
+      custom_checkbox: true
 nav:
   - Home: index.md
-  - SSH:
-      - Introduction:
-        - SSH Overview: ssh/ssh-overview.md
-        - SSH Installation: ssh/ssh-installation.md
-      - SSH Keys:
-        - Play with SSH Keys: ssh/play-with-ssh-keys.md
-      - Host & Server:
-        - Remote Server Configuration: ssh/remote-server-configuration.md
-        - Host Configuration: ssh/host-configuration.md
-        - Server Configuration: ssh/server-configuration.md
-      - SSH Tunnels:
-        - Local Tunneling: ssh/local-tunneling.md
-        - Remote Tunneling: ssh/remote-tunneling.md
+  - Docs:
+    - docs/index.md
+    - SSH:
+        - Introduction:
+          - SSH Overview: docs/ssh/ssh-overview.md
+          - SSH Installation: docs/ssh/ssh-installation.md
+        - SSH Keys:
+          - Play with SSH Keys: docs/ssh/play-with-ssh-keys.md
+        - Host & Server:
+          - Remote Server Configuration: docs/ssh/remote-server-configuration.md
+          - Host Configuration: docs/ssh/host-configuration.md
+          - Server Configuration: docs/ssh/server-configuration.md
+        - SSH Tunnels:
+          - Local Tunneling: docs/ssh/local-tunneling.md
+          - Remote Tunneling: docs/ssh/remote-tunneling.md
+    - 12 Factor App: docs/12-factor-app.md
