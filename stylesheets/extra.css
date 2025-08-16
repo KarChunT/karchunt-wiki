@@ -13,3 +13,16 @@ strong {
 [data-md-color-scheme="slate"] strong { 
     color: #ffec3d;
 }
+
+@keyframes emoji-animate {
+  0%, 40%, 80%, 100% {
+    transform: scale(1);
+  }
+  20%, 60% {
+    transform: scale(1.15);
+  }
+}
+
+.emoji-animate {
+  animation: emoji-animate 1000ms infinite;
+}
