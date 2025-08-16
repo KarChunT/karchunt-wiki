@@ -27,7 +27,7 @@ Now if you go to your **remote** browser/curl to `localhost:8080`, you are able 
 
 ### Remote tunneling local network
 
-![Remote tunneling local network](../assets/ssh/remote_tunneling_local_network.gif)
+![Remote tunneling local network](../../assets/ssh/remote_tunneling_local_network.gif)
 
 You can tunnel your local network to remote host. Here is the animation diagram of the local network web server and common SSH server.
 
@@ -40,7 +40,7 @@ ssh -R 0.0.0.0:8080:localhost:8080 user@remote-host-ip-address/gateway
 
 ### Remote tunneling private network
 
-![Remote tunneling private network](../assets/ssh/remote_tunneling_private_network.gif)
+![Remote tunneling private network](../../assets/ssh/remote_tunneling_private_network.gif)
 
 You can tunnel your local private network to remote host. Here is the animation diagram of the private network web server and common SSH server.
 

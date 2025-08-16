@@ -48,7 +48,7 @@ kill 5965
 
 You can tunnel remote host local network to your local. Here is the animation diagram of the local network web server and common SSH server.
 
-![Local tunneling local network](../assets/ssh/local_tunneling_local_network.gif)
+![Local tunneling local network](../../assets/ssh/local_tunneling_local_network.gif)
 
 ```bash linenums="1"
 ssh -L 8080:localhost:8080 user@server
@@ -58,7 +58,7 @@ ssh -L 8080:localhost:8080 user@server
 
 You can tunnnel remote host private network to your local. Here is the animation diagram of the private network web server and common SSH server.
 
-![Local tunneling private network](../assets/ssh/local_tunneling_private_network.gif)
+![Local tunneling private network](../../assets/ssh/local_tunneling_private_network.gif)
 
 ```bash linenums="1"
 ssh -L <local-port>:<server-ip-address>:<server-port> <username>@<bastion-server-ip-address>
