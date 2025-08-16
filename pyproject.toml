@@ -5,7 +5,6 @@ description = "Documentation for KarChunT Wiki"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "mkdocs-breadcrumbs-plugin>=0.1.14",
     "mkdocs-git-authors-plugin>=0.10.0",
     "mkdocs-git-committers-plugin-2>=2.5.0",
     "mkdocs-git-revision-date-localized-plugin>=1.4.7",
