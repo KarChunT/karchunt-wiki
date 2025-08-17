@@ -2,16 +2,20 @@ strong {
     color: #4051b5;
 }
 
+/* [data-md-color-scheme="slate"] code {
+  background-color: #0a0909;
+} */
+
 [data-md-color-scheme="slate"] h1{
-    color: white
+  color: white
 }
 
 [data-md-color-scheme="default"] h1 {
-    color: black;
+  color: black;
 }
 
 [data-md-color-scheme="slate"] strong { 
-    color: #ffec3d;
+  color: #ffec3d;
 }
 
 @keyframes emoji-animate {
