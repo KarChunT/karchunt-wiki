@@ -12,6 +12,7 @@
       ![alt text](../../assets/git/download-for-windows.png)
 
 3. Open the downloaded exe file and follow the instructions. I put all options as **default**.
+      
       ![alt text](../../assets/git/done-installation.png)
 
 4. After you have done the installation. Open your terminal and enter the following command.
