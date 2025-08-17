@@ -34,4 +34,13 @@ hide:
     Git is a distributed version control system that tracks file changes and who made changes.
 
     [:octicons-arrow-right-24: Getting Started](git/what-is-git/)
+
+-   :material-language-python:{ .lg .middle } __Python Object-Oriented Programming (OOP)__
+
+    ---
+
+    Object-Oriented Programming (OOP) is a programming paradigm that uses objects and classes to structure software programs.
+
+    [:octicons-arrow-right-24: Getting Started](python-oop/concepts/)
+
 </div>

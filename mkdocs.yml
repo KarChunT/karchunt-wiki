@@ -191,3 +191,15 @@ nav:
         - Advanced:
           - Reflog: docs/git/reflog.md
     - 12 Factor App: docs/12-factor-app.md
+    - Python OOP:
+        - Introduction:
+          - Concepts of Object-Oriented Programming (OOP): docs/python-oop/concepts.md
+          - Cohesion & Coupling: docs/python-oop/cohesion-and-coupling.md
+        - Core Topics:
+          - Class & Object: docs/python-oop/class-and-object.md
+          - Encapsulation: docs/python-oop/encapsulation.md
+          - Inheritance: docs/python-oop/inheritance.md
+          - Polymorphism: docs/python-oop/polymorphism.md
+          - Abstraction: docs/python-oop/abstraction.md
+        - Class Diagram:
+          - UML Class Diagram: docs/python-oop/uml-class-diagram.md
