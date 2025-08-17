@@ -116,9 +116,9 @@ plugins:
       exclude:
         - index.md
         - docs/index.md
-      enabled: true
+      enabled: !ENV [CI, false]
   - git-committers:
-      enabled: true
+      enabled: !ENV [CI, false]
       repository: KarChunT/karchunt-wiki
       branch: main
       exclude:
@@ -129,6 +129,7 @@ extra_css:
 extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   - javascripts/tablesort.js
+  - javascripts/mermaid.mjs
 markdown_extensions:
   - admonition
   - pymdownx.details
@@ -174,4 +175,19 @@ nav:
         - SSH Tunnels:
           - Local Tunneling: docs/ssh/local-tunneling.md
           - Remote Tunneling: docs/ssh/remote-tunneling.md
+    - Git:
+        - Introduction:
+          - What is Git?: docs/git/what-is-git.md
+          - Git Installation: docs/git/git-installation.md
+          - Git in Depth: docs/git/git-in-depth.md
+        - Getting Started with Git:
+          - Setup Repository: docs/git/setup-repository.md
+          - Save Changes: docs/git/save-changes.md
+          - Branches: docs/git/branches.md
+          - Remote Repositories: docs/git/remote-repositories.md
+          - Rebasing: docs/git/rebasing.md
+          - Reset and Revert: docs/git/reset-and-revert.md
+          - Stashing: docs/git/stashing.md
+        - Advanced:
+          - Reflog: docs/git/reflog.md
     - 12 Factor App: docs/12-factor-app.md
