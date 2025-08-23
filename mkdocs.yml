@@ -76,7 +76,7 @@ extra:
       - manage
   analytics:
     provider: google
-    property: ""
+    property: !ENV [GOOGLE_ANALYTICS_KEY, ""]
     feedback:
       title: Was this page helpful?
       ratings:

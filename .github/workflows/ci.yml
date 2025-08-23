@@ -37,4 +37,5 @@ jobs:
       - name: Deploy docs
         env:
           CI: true
+          GOOGLE_ANALYTICS_KEY: ${{ secrets.GOOGLE_ANALYTICS_KEY }}
         run: uv run mkdocs gh-deploy --force
