@@ -27,7 +27,7 @@ theme:
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
-    # - navigation.expand
+    - navigation.expand
     # - navigation.path
     - navigation.indexes
     - navigation.top
@@ -135,7 +135,11 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.highlight:
+      use_pygments: true
+      auto_title: true
       anchor_linenums: true
+      linenums: true
+      linenums_style: pymdownx-inline
       line_spans: __span
       pygments_lang_class: true
   - pymdownx.inlinehilite
@@ -203,3 +207,20 @@ nav:
           - Abstraction: docs/python-oop/abstraction.md
         - Class Diagram:
           - UML Class Diagram: docs/python-oop/uml-class-diagram.md
+    - Docker:
+      - Introduction:
+        - What is Docker?: docs/docker/what-is-docker.md
+        - Docker Architecture: docs/docker/docker-architecture.md
+        - Docker Installation: docs/docker/docker-installation.md
+        - Daemon Configuration: docs/docker/daemon-configuration.md
+      - Core Topics:
+        - Container: docs/docker/container.md
+        - Image: docs/docker/image.md
+        - Volume: docs/docker/volume.md
+        - Network: docs/docker/network.md
+        - Resource Limits: docs/docker/resource-limits.md
+        - Docker Compose: docs/docker/docker-compose.md
+      - Additional:
+        - Useful Commands: docs/docker/useful-commands.md
+        - Best Practices for Creating Docker Image: docs/docker/best-practices-for-creating-docker-image.md
+        - Future Enhancements: docs/docker/future.md

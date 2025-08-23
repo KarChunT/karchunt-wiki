@@ -35,12 +35,21 @@ hide:
 
     [:octicons-arrow-right-24: Getting Started](git/what-is-git/)
 
--   :material-language-python:{ .lg .middle } __Python Object-Oriented Programming (OOP)__
+-   :material-language-python:{ .lg .middle } __Python OOP__
 
     ---
 
     Object-Oriented Programming (OOP) is a programming paradigm that uses objects and classes to structure software programs.
 
     [:octicons-arrow-right-24: Getting Started](python-oop/concepts/)
+
+
+-   :material-docker:{ .lg .middle } __Docker__
+
+    ---
+
+    Docker is an open platform for developing, shipping, and running applications using containers.
+
+    [:octicons-arrow-right-24: Getting Started](docker/what-is-docker/)
 
 </div>
