@@ -107,6 +107,8 @@ plugins:
   - search
   - glightbox
   # - git-authors
+  - minify:
+      minify_html: true
   - social:
       cards_layout_options:
         font_family: JetBrains Mono
