@@ -33,7 +33,10 @@ jobs:
 
       - name: Install the project
         run: uv sync --locked --all-extras --dev
-      
+
+      - name: Install mkdocs-material
+        run: uv add mkdocs-material
+
       - name: Deploy docs
         env:
           CI: true
