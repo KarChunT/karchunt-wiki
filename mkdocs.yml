@@ -6,6 +6,7 @@ edit_uri: edit/main/docs/
 use_directory_urls: true
 theme:
   name: material
+  custom_dir: overrides
   direction: ltr
   logo: assets/logo.png
   favicon: assets/logo.png

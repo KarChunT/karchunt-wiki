@@ -5,6 +5,7 @@ hide:
   - path
   - feedback
   - footer
+comments: true
 ---
 
 # Welcome to KarChunT Wiki
