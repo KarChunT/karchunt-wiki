@@ -19,6 +19,8 @@ jobs:
           fetch-depth: 0
           sparse-checkout: | # only apply fetch-depth 0 to the docs directory
             docs
+            mkdocs.yml
+            custom_theme
 
       - name: Configure Git Credentials
         run: |
