@@ -17,6 +17,7 @@ theme:
   features:
     - content.action.edit
     - content.action.view
+    - content.tabs.link
     - content.code.copy
     - content.code.select
     - content.code.annotate
@@ -164,6 +165,11 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tasklist:
       custom_checkbox: true
+  - pymdownx.tabbed:
+      alternate_style: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
 nav:
   - Home: index.md
   # - Docs:
@@ -226,3 +232,36 @@ nav:
       - Useful Commands: docs/docker/useful-commands.md
       - Best Practices for Creating Docker Image: docs/docker/best-practices-for-creating-docker-image.md
       - Future Enhancements: docs/docker/future.md
+  - Taskfile:
+      - Introduction:
+        - Taskfile Overview: docs/taskfile/taskfile-overview.md
+        - Taskfile Installation: docs/taskfile/installation.md
+        - Basic Usage: docs/taskfile/basic.md
+      - Core Topics:
+        - Running Taskfile: docs/taskfile/running-taskfile.md
+        - Variables: docs/taskfile/variables.md
+        - Environment Variables: docs/taskfile/environment-variable.md
+        - Internal Tasks: docs/taskfile/internal-tasks.md
+        - Task Directory: docs/taskfile/task-directory.md
+        - Include Other Taskfile: docs/taskfile/include-other-taskfile.md
+        - Task Dependencies and Parallel Task Execution: docs/taskfile/task-dependencies-and-parallel-task-execution.md
+        - Run Task in Specific Order: docs/taskfile/run-task-in-specific-order.md
+        - Platform-Specific Tasks: docs/taskfile/platform-specific-tasks.md
+        - Prevent Unnecessary Task Execution: docs/taskfile/prevent-unnecessary-task-execution.md
+        - If-Else Condition: docs/taskfile/if-else-condition.md
+        - Looping: docs/taskfile/looping.md
+        - Forward CLI Arguments to CMD: docs/taskfile/forward-cli-arguments-to-cmd.md
+        - Wildcard Args: docs/taskfile/wildcard-args.md
+        - Ignore Errors: docs/taskfile/ignore-errors.md
+        - Task Cleanup with Defer: docs/taskfile/task-cleanup-with-defer.md
+        - Watch Tasks: docs/taskfile/watch-tasks.md
+      - Additional Topics:
+        - Display Taskfile Summary: docs/taskfile/display-taskfile-summary.md
+        - Task Aliases: docs/taskfile/task-aliases.md
+        - Overriding Task Name: docs/taskfile/overriding-task-name.md
+        - Warning Prompts: docs/taskfile/warning-prompts.md
+        - Silent Mode: docs/taskfile/silent-mode.md
+        - Dry Run Mode: docs/taskfile/dry-run-mode.md
+        - Interactive CLI Application: docs/taskfile/interactive-cli-application.md
+      - Advanced:
+        - Integrate Taskfile with CI/CD: docs/taskfile/integrate-taskfile-with-cicd.md

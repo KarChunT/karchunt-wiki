@@ -52,4 +52,12 @@ hide:
 
     [:octicons-arrow-right-24: Getting Started](docker/what-is-docker/)
 
+-   :simple-task:{ .lg .middle } __Taskfile__
+
+    ---
+
+    Taskfile is a simple task runner for automating tasks in your development workflow and streamline your tasks.
+
+    [:octicons-arrow-right-24: Getting Started](taskfile/taskfile-overview/)
+
 </div>
