@@ -166,63 +166,63 @@ markdown_extensions:
       custom_checkbox: true
 nav:
   - Home: index.md
-  - Docs:
-    - docs/index.md
-    - SSH:
-        - Introduction:
-          - SSH Overview: docs/ssh/ssh-overview.md
-          - SSH Installation: docs/ssh/ssh-installation.md
-        - SSH Keys:
-          - Play with SSH Keys: docs/ssh/play-with-ssh-keys.md
-        - Host & Server:
-          - Remote Server Configuration: docs/ssh/remote-server-configuration.md
-          - Host Configuration: docs/ssh/host-configuration.md
-          - Server Configuration: docs/ssh/server-configuration.md
-        - SSH Tunnels:
-          - Local Tunneling: docs/ssh/local-tunneling.md
-          - Remote Tunneling: docs/ssh/remote-tunneling.md
-    - Git:
-        - Introduction:
-          - What is Git?: docs/git/what-is-git.md
-          - Git Installation: docs/git/git-installation.md
-          - Git in Depth: docs/git/git-in-depth.md
-        - Getting Started with Git:
-          - Setup Repository: docs/git/setup-repository.md
-          - Save Changes: docs/git/save-changes.md
-          - Branches: docs/git/branches.md
-          - Remote Repositories: docs/git/remote-repositories.md
-          - Rebasing: docs/git/rebasing.md
-          - Reset and Revert: docs/git/reset-and-revert.md
-          - Stashing: docs/git/stashing.md
-        - Advanced:
-          - Reflog: docs/git/reflog.md
-    - 12 Factor App: docs/12-factor-app.md
-    - Python OOP:
-        - Introduction:
-          - Concepts of Object-Oriented Programming (OOP): docs/python-oop/concepts.md
-          - Cohesion & Coupling: docs/python-oop/cohesion-and-coupling.md
-        - Core Topics:
-          - Class & Object: docs/python-oop/class-and-object.md
-          - Encapsulation: docs/python-oop/encapsulation.md
-          - Inheritance: docs/python-oop/inheritance.md
-          - Polymorphism: docs/python-oop/polymorphism.md
-          - Abstraction: docs/python-oop/abstraction.md
-        - Class Diagram:
-          - UML Class Diagram: docs/python-oop/uml-class-diagram.md
-    - Docker:
+  # - Docs:
+  #   - docs/index.md
+  - SSH:
       - Introduction:
-        - What is Docker?: docs/docker/what-is-docker.md
-        - Docker Architecture: docs/docker/docker-architecture.md
-        - Docker Installation: docs/docker/docker-installation.md
-        - Daemon Configuration: docs/docker/daemon-configuration.md
+        - SSH Overview: docs/ssh/ssh-overview.md
+        - SSH Installation: docs/ssh/ssh-installation.md
+      - SSH Keys:
+        - Play with SSH Keys: docs/ssh/play-with-ssh-keys.md
+      - Host & Server:
+        - Remote Server Configuration: docs/ssh/remote-server-configuration.md
+        - Host Configuration: docs/ssh/host-configuration.md
+        - Server Configuration: docs/ssh/server-configuration.md
+      - SSH Tunnels:
+        - Local Tunneling: docs/ssh/local-tunneling.md
+        - Remote Tunneling: docs/ssh/remote-tunneling.md
+  - Git:
+      - Introduction:
+        - What is Git?: docs/git/what-is-git.md
+        - Git Installation: docs/git/git-installation.md
+        - Git in Depth: docs/git/git-in-depth.md
+      - Getting Started with Git:
+        - Setup Repository: docs/git/setup-repository.md
+        - Save Changes: docs/git/save-changes.md
+        - Branches: docs/git/branches.md
+        - Remote Repositories: docs/git/remote-repositories.md
+        - Rebasing: docs/git/rebasing.md
+        - Reset and Revert: docs/git/reset-and-revert.md
+        - Stashing: docs/git/stashing.md
+      - Advanced:
+        - Reflog: docs/git/reflog.md
+  - 12 Factor App: docs/12-factor-app.md
+  - Python OOP:
+      - Introduction:
+        - Concepts of Object-Oriented Programming (OOP): docs/python-oop/concepts.md
+        - Cohesion & Coupling: docs/python-oop/cohesion-and-coupling.md
       - Core Topics:
-        - Container: docs/docker/container.md
-        - Image: docs/docker/image.md
-        - Volume: docs/docker/volume.md
-        - Network: docs/docker/network.md
-        - Resource Limits: docs/docker/resource-limits.md
-        - Docker Compose: docs/docker/docker-compose.md
-      - Additional:
-        - Useful Commands: docs/docker/useful-commands.md
-        - Best Practices for Creating Docker Image: docs/docker/best-practices-for-creating-docker-image.md
-        - Future Enhancements: docs/docker/future.md
+        - Class & Object: docs/python-oop/class-and-object.md
+        - Encapsulation: docs/python-oop/encapsulation.md
+        - Inheritance: docs/python-oop/inheritance.md
+        - Polymorphism: docs/python-oop/polymorphism.md
+        - Abstraction: docs/python-oop/abstraction.md
+      - Class Diagram:
+        - UML Class Diagram: docs/python-oop/uml-class-diagram.md
+  - Docker:
+    - Introduction:
+      - What is Docker?: docs/docker/what-is-docker.md
+      - Docker Architecture: docs/docker/docker-architecture.md
+      - Docker Installation: docs/docker/docker-installation.md
+      - Daemon Configuration: docs/docker/daemon-configuration.md
+    - Core Topics:
+      - Container: docs/docker/container.md
+      - Image: docs/docker/image.md
+      - Volume: docs/docker/volume.md
+      - Network: docs/docker/network.md
+      - Resource Limits: docs/docker/resource-limits.md
+      - Docker Compose: docs/docker/docker-compose.md
+    - Additional:
+      - Useful Commands: docs/docker/useful-commands.md
+      - Best Practices for Creating Docker Image: docs/docker/best-practices-for-creating-docker-image.md
+      - Future Enhancements: docs/docker/future.md
