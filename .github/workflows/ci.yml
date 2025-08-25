@@ -36,11 +36,8 @@ jobs:
       - name: Install the project
         run: uv sync --locked --all-extras --dev
 
-      - name: Install mkdocs-material
-        run: uv add mkdocs-material
-
       - name: Deploy docs
         env:
           CI: true
           GOOGLE_ANALYTICS_KEY: ${{ secrets.GOOGLE_ANALYTICS_KEY }}
-        run: uv run mkdocs gh-deploy --force
+        run: ls -la & uv run mkdocs gh-deploy --force
