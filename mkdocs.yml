@@ -172,8 +172,8 @@ markdown_extensions:
           case: lower
 nav:
   - Home: index.md
-  # - Docs:
-  #   - docs/index.md
+  - Documentation:
+    - docs/index.md
   - SSH:
       - Introduction:
         - SSH Overview: docs/ssh/ssh-overview.md
