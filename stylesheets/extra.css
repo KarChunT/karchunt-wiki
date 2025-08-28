@@ -2,6 +2,11 @@ strong {
     color: #4051b5;
 }
 
+/* Hide nav items */
+.md-tabs__list li:not(:has(a[href$="karchunt-wiki/"])):not(:has(a[href$="karchunt-wiki/docs/"])) {
+  display: none;
+}
+
 /* [data-md-color-scheme="slate"] code {
   background-color: #0a0909;
 } */
