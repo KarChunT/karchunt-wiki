@@ -1,7 +1,7 @@
 # Container
 
 !!! info
-    All changes that are made to containers or networks are logged under the [Docker System Events](../../docker/useful-commands#docker-system-events).
+    All changes that are made to containers or networks are logged under the [Docker System Events](../useful-commands#docker-system-events).
 
 ## Create container
 

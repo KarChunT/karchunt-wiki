@@ -60,4 +60,12 @@ hide:
 
     [:octicons-arrow-right-24: Getting Started](taskfile/taskfile-overview/)
 
+-   :material-kubernetes:{ .lg .middle } __Kubernetes__
+
+    ---
+
+    Kubernetes, also known as K8s, is an open source system for automating deployment, scaling, and management of containerized applications.
+
+    [:octicons-arrow-right-24: Getting Started](kubernetes/what-is-kubernetes/)
+
 </div>

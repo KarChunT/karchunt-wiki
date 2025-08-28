@@ -100,7 +100,7 @@ tasks:
 ENDPOINT=testing.com
 ```
 
-```yaml title="Taskfile.yml"
+```yaml title="Taskfile.yml" hl_lines="8"
 version: '3'
 
 tasks:
@@ -108,7 +108,7 @@ tasks:
     dotenv:
       - '.env'
     env:
-      ENDPOINT: dev.com # Override the value of ENDPOINT [!code highlight]
+      ENDPOINT: dev.com # Override the value of ENDPOINT
     cmds:
       - 'echo "Endpoint is: $ENDPOINT"'
 ```

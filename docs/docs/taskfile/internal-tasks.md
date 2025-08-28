@@ -5,11 +5,11 @@
 
 Internal tasks in Taskfile are used to **define tasks that are not intended to be run directly by users**. They are useful for **organizing utility tasks** that **support the main tasks** of your project **without cluttering the task list**.
 
-```yaml title="Taskfile.yml"
+```yaml title="Taskfile.yml" hl_lines="4"
 version: '3'
 tasks:
   secret-task:
-    internal: true # [!code highlight]
+    internal: true
     cmds:
       - echo "This is a secret task"
   public-task:

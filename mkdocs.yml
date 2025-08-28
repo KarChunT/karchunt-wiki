@@ -265,3 +265,67 @@ nav:
         - Interactive CLI Application: docs/taskfile/interactive-cli-application.md
       - Advanced:
         - Integrate Taskfile with CI/CD: docs/taskfile/integrate-taskfile-with-cicd.md
+  - Kubernetes:
+      - Introduction:
+        - What is Kubernetes?: docs/kubernetes/what-is-kubernetes.md
+        - Cluster Architecture: docs/kubernetes/cluster-architecture.md
+        - Container Runtime: docs/kubernetes/container-runtime.md
+      - Core Topics:
+        - Pod: docs/kubernetes/pod.md
+        - Replica Set: docs/kubernetes/replica-set.md
+        - Deployment: docs/kubernetes/deployment.md
+        - Namespace: docs/kubernetes/namespace.md
+        - Command and Args: docs/kubernetes/command-and-args.md
+        - Env and Secrets Setup: docs/kubernetes/env-and-secrets-setup.md
+        - Labels, Selectors, and Annotations: docs/kubernetes/labels-selectors-and-annotations.md
+        - Services: docs/kubernetes/services.md
+        - Port Forward: docs/kubernetes/port-forward.md
+        - Resource Requirements and Limits: docs/kubernetes/resource-requirements-and-limits.md
+        - Daemon Set: docs/kubernetes/daemon-set.md
+        - Job: docs/kubernetes/job.md
+        - Cron Job: docs/kubernetes/cron-job.md
+        - Volume: docs/kubernetes/volume.md
+        - Persistent Volume and Claim: docs/kubernetes/persistent-volume-and-claim.md
+        - Ingress: docs/kubernetes/ingress.md
+      - Scheduling:
+        - Manual Scheduling: docs/kubernetes/manual-scheduling.md
+        - Taints and Tolerations: docs/kubernetes/taints-and-tolerations.md
+        - Node Selectors: docs/kubernetes/node-selectors.md
+        - Node Affinity: docs/kubernetes/node-affinity.md
+        - Static Pod: docs/kubernetes/static-pod.md
+        - Multiple Schedulers: docs/kubernetes/multiple-schedulers.md
+      - Observability:
+        - Readiness Probes: docs/kubernetes/readiness-probes.md
+        - Liveness Probes: docs/kubernetes/liveness-probes.md
+        - Logging: docs/kubernetes/logging.md
+        - Monitoring: docs/kubernetes/monitoring.md
+        - Audit Logging: docs/kubernetes/audit-logging.md
+      - Cluster Maintenance:
+        - OS Upgrades: docs/kubernetes/os-upgrades.md
+        - Cluster Upgrade: docs/kubernetes/cluster-upgrade.md
+        - Backup and Restore Methods: docs/kubernetes/backup-and-restore-methods.md
+      - Security:
+        - 4c Cloud Native K8s Security: docs/kubernetes/4c-cloud-native-k8s-security.md
+        - Benchmarks: docs/kubernetes/benchmarks.md
+        - Authentication: docs/kubernetes/authentication.md
+        - Pull Image with Secret: docs/kubernetes/pull-image-with-secret.md
+        - Security Context: docs/kubernetes/security-context.md
+        - Service Account: docs/kubernetes/service-account.md
+        - TLS: docs/kubernetes/tls.md
+        - Cluster Components Security: docs/kubernetes/cluster-components-security.md
+        - Certificate API: docs/kubernetes/certificate-api.md
+        - Kubeconfig: docs/kubernetes/kubeconfig.md
+        - API Groups: docs/kubernetes/api-groups.md
+        - Authorization: docs/kubernetes/authorization.md
+        - Cluster Role: docs/kubernetes/cluster-role.md
+        - Pod Security Policy: docs/kubernetes/pod-security-policy.md
+        - Pod Security Standard and Admissions: docs/kubernetes/pod-security-standard-and-admissions.md
+        - Mutual TLS: docs/kubernetes/mutual-tls.md
+      - Advanced:
+        - Encrypting Secret Data at Rest: docs/kubernetes/encrypting-secret-data-at-rest.md
+        - Scan Images Using Admission Controller: docs/kubernetes/scan-images-using-admission-controller.md
+        - Kubernetes Threat Model: docs/kubernetes/kubernetes-threat-model.md
+        - Overview of Kubernetes Compliance and Security Frameworks: docs/kubernetes/overview-of-kubernetes-compliance-and-security-frameworks.md
+      - Tips & Tools:
+        - Exam Tips: docs/kubernetes/exam-tips.md
+        - Useful Tools: docs/kubernetes/useful-tools.md

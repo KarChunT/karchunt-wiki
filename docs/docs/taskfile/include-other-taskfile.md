@@ -6,16 +6,14 @@ This feature allows you to include other Taskfiles in your main Taskfile, which 
 
 Here is the scenario, in your **root directory**, you have a `Taskfile.yml` that need to **include other Taskfiles** from `app` directory and `docker-task.yml` file.
 
-<Files>
-  <Folder name="app" defaultOpen>
-    <File name="Taskfile.yml" />
-  </Folder>
-  <File name="Taskfile.yml" />
-  <File name="docker-task.yml" />
-</Files>
+```text
+app/
+│   Taskfile.yml
+Taskfile.yml
+docker-task.yml
+```
 
-<Tabs items={['app/Taskfile.yml', 'docker-task.yml']}>
-  <Tab value="app/Taskfile.yml">
+=== "app/Taskfile.yml"
     ```yaml
     version: '3'
     tasks:
@@ -24,8 +22,8 @@ Here is the scenario, in your **root directory**, you have a `Taskfile.yml` that
         cmds:
           - 'echo "App version is 1.0.0"'
     ```
-  </Tab>
-  <Tab value="docker-task.yml">
+
+=== "docker-task.yml"
     ```yaml
     version: '3'
     tasks:
@@ -34,8 +32,6 @@ Here is the scenario, in your **root directory**, you have a `Taskfile.yml` that
         cmds:
           - docker --version
     ```
-  </Tab>
-</Tabs>
 
 ```yaml title="~/Taskfile.yml"
 version: '3'
@@ -150,12 +146,12 @@ includes:
 
 - If the directory does not exist, Task will create it.
 
-```bash title="Demo and output"
+```bash title="Demo and output" hl_lines="5"
 ubuntu@touted-mite:~$ task app:get-app-version 
 task: [app:get-app-version] echo "App version is 1.0.0"
 App version is 1.0.0
 task: [app:get-app-version] pwd
-/home/ubuntu/app1 # [!code highlight]
+/home/ubuntu/app1
 ```
 
 ## Optional includes

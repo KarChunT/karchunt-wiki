@@ -57,12 +57,12 @@ tasks:
 
 ## Set default values for variables
 
-```yaml title="Taskfile.yaml"
+```yaml title="Taskfile.yaml" hl_lines="5"
 version: '3'
 tasks:
   msg:
     vars:
-      MESSAGE: '{{.MESSAGE | default "Hello World"}}' # [!code highlight]
+      MESSAGE: '{{.MESSAGE | default "Hello World"}}'
     cmds:
       - 'echo "Message is: {{ .MESSAGE }}"'
 ```
