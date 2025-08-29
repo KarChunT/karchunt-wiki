@@ -2,286 +2,506 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/12-factor-app/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/docker/best-practices-for-creating-docker-image/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/docker/container/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/docker/daemon-configuration/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/docker/docker-architecture/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/docker/docker-compose/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/docker/docker-installation/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/docker/future/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/docker/image/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/docker/network/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/docker/resource-limits/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/docker/useful-commands/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/docker/volume/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/docker/what-is-docker/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/git/branches/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/git/git-in-depth/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/git/git-installation/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/git/rebasing/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/git/reflog/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/git/remote-repositories/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/git/reset-and-revert/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/git/save-changes/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/git/setup-repository/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/git/stashing/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/git/what-is-git/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/4c-cloud-native-k8s-security/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/api-groups/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/audit-logging/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/authentication/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/authorization/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/backup-and-restore-methods/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/benchmarks/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/certificate-api/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/cluster-architecture/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/cluster-components-security/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/cluster-role/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/cluster-upgrade/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/command-and-args/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/container-runtime/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/cron-job/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/daemon-set/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/deployment/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/encrypting-secret-data-at-rest/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/env-and-secrets-setup/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/exam-tips/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/ingress/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/job/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/kubeconfig/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/kubernetes-threat-model/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/labels-selectors-and-annotations/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/liveness-probes/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/logging/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/manual-scheduling/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/monitoring/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/multiple-schedulers/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/mutual-tls/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/namespace/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/node-affinity/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/node-selectors/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/os-upgrades/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/overview-of-kubernetes-compliance-and-security-frameworks/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/persistent-volume-and-claim/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/pod-security-policy/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/pod-security-standard-and-admissions/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/pod/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/port-forward/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/pull-image-with-secret/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/readiness-probes/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/replica-set/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/resource-requirements-and-limits/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/scan-images-using-admission-controller/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/security-context/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/service-account/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/services/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/static-pod/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/taints-and-tolerations/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/tls/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/useful-tools/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/volume/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://karchunt.github.io/karchunt-wiki/docs/kubernetes/what-is-kubernetes/</loc>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/python-oop/abstraction/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/python-oop/class-and-object/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/python-oop/cohesion-and-coupling/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/python-oop/concepts/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/python-oop/encapsulation/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/python-oop/inheritance/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/python-oop/polymorphism/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/python-oop/uml-class-diagram/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/ssh/host-configuration/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/ssh/local-tunneling/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/ssh/play-with-ssh-keys/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/ssh/remote-server-configuration/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/ssh/remote-tunneling/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/ssh/server-configuration/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/ssh/ssh-installation/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/ssh/ssh-overview/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/taskfile/basic/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/taskfile/display-taskfile-summary/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/taskfile/dry-run-mode/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/taskfile/environment-variable/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/taskfile/forward-cli-arguments-to-cmd/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/taskfile/if-else-condition/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/taskfile/ignore-errors/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/taskfile/include-other-taskfile/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/taskfile/installation/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/taskfile/integrate-taskfile-with-cicd/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/taskfile/interactive-cli-application/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/taskfile/internal-tasks/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/taskfile/looping/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/taskfile/overriding-task-name/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/taskfile/platform-specific-tasks/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/taskfile/prevent-unnecessary-task-execution/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/taskfile/run-task-in-specific-order/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/taskfile/running-taskfile/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/taskfile/silent-mode/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/taskfile/task-aliases/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/taskfile/task-cleanup-with-defer/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/taskfile/task-dependencies-and-parallel-task-execution/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/taskfile/task-directory/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/taskfile/taskfile-overview/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/taskfile/variables/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/taskfile/warning-prompts/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/taskfile/watch-tasks/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://karchunt.github.io/karchunt-wiki/docs/taskfile/wildcard-args/</loc>
-         <lastmod>2025-08-28</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
 </urlset>
