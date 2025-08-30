@@ -1,0 +1,58 @@
+---
+date:
+  created: 2025-03-26
+categories:
+  - Technology
+tags:
+  - Docker Compose
+  - Jenkins
+links:
+  - Dockerhub Jenkins: https://hub.docker.com/r/jenkins/jenkins
+---
+
+# Install Jenkins with Docker-Compose
+
+Learn how to install Jenkins using Docker Compose.
+
+<!-- more -->
+
+1. Create `docker-compose.yml`
+
+    ```yaml title="docker-compose.yml"
+    version: '3.8'
+    services:
+      jenkins:
+        image: jenkins/jenkins:jdk11
+        restart: always
+        privileged: true
+        user: root
+        ports:
+          - '8081:8080'
+          - '50000:5000'
+        container_name: jenkins_jdk11
+        volumes:
+          - ~/Desktop/self-hosted/jenkins_home:/var/jenkins_home
+          - /var/run/docker.sock:/var/run/docker.sock
+    ```
+
+    - You can map `/var/jenkins_home` to any local location you liked
+
+2. Start `docker-compose.yml` as background
+
+    ```bash
+    docker-compose up -d
+    ```
+
+3. Verify Jenkins container service
+
+    ```bash
+    docker-compose ps
+    ```
+
+4. Get the Jenkins admin password
+
+    ```bash
+    docker exec jenkins_jdk11 cat /var/jenkins_home/secrets/initialAdminPassword
+    ```
+
+5. Open your browser, navigate to `localhost:8081`, and paste your password

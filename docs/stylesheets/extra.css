@@ -2,14 +2,14 @@ strong {
   color: #4051b5;
 }
 
-.md-content__inner a:not(.tabbed-set * a) {
+/* .md-content__inner a:not(.tabbed-set * a) {
   text-decoration: underline;
   text-underline-offset: 5px;
   text-decoration-thickness: 2px;
-}
+} */
 
 /* Hide nav items */
-.md-tabs__list li:not(:has(a[href$="karchunt-wiki/"])):not(:has(a[href$="karchunt-wiki/docs/"])) {
+.md-tabs__list li:not(:has(a[href$="karchunt-wiki/"])):not(:has(a[href$="karchunt-wiki/docs/"])):not(:has(a[href$="karchunt-wiki/blog/"])) {
   display: none;
 }
 
