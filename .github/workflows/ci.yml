@@ -42,4 +42,5 @@ jobs:
         env:
           CI: true
           GOOGLE_ANALYTICS_KEY: ${{ secrets.GOOGLE_ANALYTICS_KEY }}
+          CI_JOB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: uv run mkdocs gh-deploy --force

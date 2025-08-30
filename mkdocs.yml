@@ -122,6 +122,7 @@ plugins:
       enabled: !ENV [CI, false]
   - git-committers:
       enabled: !ENV [CI, false]
+      token: !ENV ["CI_JOB_TOKEN"]
       repository: KarChunT/karchunt-wiki
       branch: main
       exclude:
